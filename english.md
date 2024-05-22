@@ -1,10 +1,11 @@
 # Team Personoversikt
 
 ## Questions
-- Jan-Eirik B. Nævdal, jan.eirik.b.navdal@nav.no
-- Nicklas Utgaard, nicklas.utgaard@nav.no
+
 - Abrha K. Abrha, abrha.kiros.abrha@nav.no
-- Jesper G. Paulsen, jesper.gayosso.paulsen@nav.no
+- Ole Ludvig Lingjærde Hozman, ole.ludvig.lingjerde.hozman@nav.no
+- Odd Gunnar Fatland, odd.gunnar.fatland@nav.no
 
 ### For NAV-employees
+
 Use slack-channel: #team-personoversikt
